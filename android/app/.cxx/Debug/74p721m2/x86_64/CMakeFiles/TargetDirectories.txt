@@ -1,0 +1,2 @@
+/Users/apple/Desktop/Android/Learn/manam_leave_management/android/app/.cxx/Debug/74p721m2/x86_64/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/Android/Learn/manam_leave_management/android/app/.cxx/Debug/74p721m2/x86_64/CMakeFiles/rebuild_cache.dir
