@@ -1,16 +1,22 @@
-# manam_leave_management
+# 🏖️ Leave Management System – Flutter App
 
-A new Flutter project.
+A cross-platform **Leave Management System** where employees can apply for various types of leaves (Casual, Sick, WFH), and managers can approve, reject, or track them in real-time.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Apply for leave (Casual, Sick, WFH)
+- View leave history and current status
+- Manager dashboard for approval/rejection
+- Role-based access control
+- Clean, responsive UI
+- Reusable components and dialogs
+- Real-time updates (with state management)
 
-A few resources to get you started if this is your first Flutter project:
+## 🧱 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** (Dart)
+- **Clean Architecture**
+- **State Management**: Bloc, GetX
+- **Networking**: Dio, Retrofit
+- **Dependency Injection**
+- **Custom Widgets** for date pickers, dialogs, and status indicators
